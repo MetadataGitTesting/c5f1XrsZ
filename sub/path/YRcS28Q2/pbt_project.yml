@@ -1,0 +1,57 @@
+name: pablo.gulgowski
+description: demand-driven
+version: 0.0.1
+author: flfiqp0c.ruhiypox@orweayo3.com
+language: scala
+buildSystem: ''
+buildSystemDetails:
+  artefactID: pablogulgowski
+  parentArtefactID: team1732306898215
+  buildSystem: maven
+  author: null
+  createdAt: '2024-11-22 20:21:39'
+pipelines: {}
+datasets: {}
+templates: {}
+jobs: {}
+gemContainer:
+  languageVersion: 2.12.15
+  gemLibsVersion: 1.1.26
+  gems: {}
+  dependencies: null
+functions:
+  author: null
+  createdAt: '2024-11-22 20:21:39'
+  udfs: {}
+  udafs: {}
+  expressions: {}
+  airflowFunctions: {}
+  businessRules: {}
+subgraphs: {}
+sqlModels: {}
+sqlSnapshots: {}
+sqlTests: {}
+sqlMacros: {}
+sqlSeeds: {}
+sqlSources: {}
+sqlUnreferencedSources: {}
+sqlPipeline: null
+dependencies:
+- modifiedAt: '2024-11-22T20:21:39.055867Z'
+  name: plibMaven
+  version: 8.6.0-SNAPSHOT
+  id: '500815055'
+  createdAt: '2024-11-22T20:21:39.055867Z'
+  type: plibMaven
+projectDependencies:
+  '415':
+    projectUID: 415
+    projectName: mckinley.strosin
+    repositoryPath: gitUri=http://gitserver:3000/dev_nJ8ZqZRJ_team_670/dev_nJ8ZqZRJ_project_415.git&subPath=
+    version: mckinley.strosin/6.5.656
+    isDefault: false
+    author: null
+    createdAt: '2024-11-22 20:21:39'
+flags:
+  shouldAddDefaultDependenciesIfAbsent: true
+pipelineConfigurations: {}
